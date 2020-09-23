@@ -22,7 +22,7 @@
 
 📢 **Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest and make four pull requests (PRs) between October 1st-31st to grab free SWAGS 🔥.**
 
-> Few issues for beginners. Take up any issue and send your first PR! 
+> Few issues for developer's. Take up any issue and send your first PR! 
 
 | Repository  | Issues  | Pull Requests  | Forks |
 |---|---|---|---|
@@ -41,6 +41,6 @@
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law,[Abhishek Naidu](https://blog.abhisheknaidu.tech/) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Abhishek Naidu](https://blog.abhisheknaidu.tech/) has waived all copyright and related or neighboring rights to this work.
 
 
