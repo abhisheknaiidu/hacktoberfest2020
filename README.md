@@ -7,17 +7,18 @@
 <h1 align="center"> Hacktoberfest 2020 🎉</h1>
 
 <div align="center">
-<a href="https://github.com/abhisheknaiidu" ><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source"/> </a>
+<img src="https://img.shields.io/badge/hacktoberfest-2020-blueviolet" alt="Hacktober Badge"/>
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 <a href="https://github.com/abhisheknaiidu" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
 <a href="https://github.com/abhisheknaiidu" ><img src="https://img.shields.io/github/followers/abhisheknaiidu.svg?label=Follow%20@abhisheknaiidu&style=social" alt="GitHub"/> </a>
 <a href="https://twitter.com/abhisheknaiidu" ><img src="https://img.shields.io/twitter/follow/abhisheknaiidu.svg?style=social" /> </a>
 <a href="https://discord.gg/XTW52Kt"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
-<!-- <a href="https://github.com/abhisheknaiidu/hacktoberfest2020/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/hacktoberfest2020?color=2b9348" alt="License Badge"/></a> -->
+<a href="https://github.com/abhisheknaiidu/hacktoberfest2020/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/hacktoberfest2020" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/hacktoberfest2020/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/hacktoberfest2020?color=2b9348" alt="License Badge"/></a>
 </div>
 
 
-### Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2020 challenge and earn a limited edition T-shirt.
+### 🗣 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2020 challenge and earn a limited edition T-shirt.
 
 📢 **Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest and make four pull requests (PRs) between October 1st-31st to grab free SWAGS 🔥.**
 
@@ -36,5 +37,10 @@
 | [quarantine-days](https://github.com/abhisheknaiidu/quarantine-days) | [![GitHub issues](https://img.shields.io/github/issues/abhisheknaiidu/quarantine-days?color=pink&logo=github)](https://github.com/abhisheknaiidu/quarantine-days/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/abhisheknaiidu/quarantine-days?style=social&logo=github)](https://github.com/abhisheknaiidu/quarantine-days/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/abhisheknaiidu/quarantine-days?logo=git)](https://github.com/abhisheknaiidu/quarantine-days/network) |
 | [javascript30](https://github.com/abhisheknaiidu/javascript30) | [![GitHub issues](https://img.shields.io/github/issues/abhisheknaiidu/javascript30?color=pink&logo=github)](https://github.com/abhisheknaiidu/javascript30/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/abhisheknaiidu/javascript30?style=social&logo=github)](https://github.com/abhisheknaiidu/javascript30/pulls) | [![GitHub forks](https://img.shields.io/github/forks/abhisheknaiidu/javascript30?style=flat-square&logo=git)](https://github.com/abhisheknaiidu/javascript30/network)  |
 
+## License 
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law,[Abhishek Naidu](https://blog.abhisheknaidu.tech/) has waived all copyright and related or neighboring rights to this work.
 
 
