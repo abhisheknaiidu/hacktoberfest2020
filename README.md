@@ -39,7 +39,7 @@
 | [todoist-readme](https://github.com/abhisheknaiidu/todoist-readme) | [![GitHub issues](https://img.shields.io/github/issues/abhisheknaiidu/todoist-readme?color=pink&logo=github)](https://github.com/abhisheknaiidu/todoist-readme/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/abhisheknaiidu/todoist-readme?style=social&logo=github)](https://github.com/abhisheknaiidu/todoist-readme/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/abhisheknaiidu/todoist-readme?logo=git)](https://github.com/abhisheknaiidu/todoist-readme/network) | [![GitHub stars](https://img.shields.io/github/stars/abhisheknaiidu/todoist-readme?style=social&logo=github)](https://github.com/abhisheknaiidu/todoist-readme/network)
 
 
-## License 
+## License :
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
