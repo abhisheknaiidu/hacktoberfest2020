@@ -3,6 +3,7 @@
         <img src="assets/hacktober-logo.svg" width="30%">
     </a>
 </p>
+// This is all about Hactoberfest 2020
 
 <h1 align="center"> Hacktoberfest 2020 🎉</h1>
 
