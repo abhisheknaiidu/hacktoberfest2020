@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
         <img src="assets/hacktober-logo.svg" width="30%">
     </a>
