@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+<p align="center">
+    <a href="https://hacktoberfest.digitalocean.com/">
+        <img src="assets/hacktober-logo.svg" width="30%">
+    </a>
+</p>
 
-You can use the [editor on GitHub](https://github.com/abhisheknaiidu/hacktoberfest2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<h1 align="center"> Hacktoberfest 2020 🎉</h1>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<div align="center">
+<img src="https://img.shields.io/badge/hacktoberfest-2020-blueviolet" alt="Hacktober Badge"/>
+<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+<a href="https://github.com/abhisheknaiidu" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
+<a href="https://github.com/abhisheknaiidu" ><img src="https://img.shields.io/github/followers/abhisheknaiidu.svg?label=Follow%20@abhisheknaiidu&style=social" alt="GitHub"/> </a>
+<a href="https://twitter.com/abhisheknaiidu" ><img src="https://img.shields.io/twitter/follow/abhisheknaiidu.svg?style=social" /> </a>
+<a href="https://discord.gg/XTW52Kt"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/hacktoberfest2020/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/hacktoberfest2020" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/hacktoberfest2020/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/hacktoberfest2020?color=2b9348" alt="License Badge"/></a>
+</div>
 
-### Markdown
+### 🗣 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2020 challenge and earn a limited edition T-shirt.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+📢 **Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest and make four pull requests (PRs) between October 1st-31st to grab free SWAGS 🔥.**
 
-```markdown
-Syntax highlighted code block
+> Few issues for developer's. Take up any issue and send your first PR! 
 
-# Header 1
-## Header 2
-### Header 3
+| Repository  | Issues  | Pull Requests  | Forks | Stars |
+|---|---|---|---|---|
+| [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)  | [![GitHub issues](https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme?color=pink&logo=github)](https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme?style=social&logo=github)](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme?logo=git)](https://github.com/abhisheknaiidu/awesome-github-profile-readme/network) | [![GitHub stars](https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme?style=social&logo=github)](https://github.com/abhisheknaiidu/awesome-github-profile-readme/network) |
+| [a-pop](https://github.com/abhisheknaiidu/a-pop/) | [![GitHub issues](https://img.shields.io/github/issues/abhisheknaiidu/a-pop?color=pink&logo=github)](https://github.com/abhisheknaiidu/a-pop/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/abhisheknaiidu/a-pop?style=social&logo=github)](https://github.com/abhisheknaiidu/a-pop/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/abhisheknaiidu/a-pop?logo=git)](https://github.com/abhisheknaiidu/a-pop/network) | [![GitHub stars](https://img.shields.io/github/stars/abhisheknaiidu/a-pop?style=social&logo=github)](https://github.com/abhisheknaiidu/a-pop/network) |
+| [Appwrite](https://github.com/appwrite/appwrite) | [![GitHub issues](https://img.shields.io/github/issues/appwrite/appwrite?color=pink&logo=github)](https://github.com/fennecdjay/Gwion/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/appwrite/appwrite?style=social&logo=github)](https://github.com/fennecdjay/Gwion/pulls) | [![GitHub forks](https://img.shields.io/github/forks/appwrite/appwrite?style=flat-square&logo=git)](https://github.com/appwrite/appwrite/network)  | [![GitHub stars](https://img.shields.io/github/stars/appwrite/appwrite?style=social&logo=github)](https://github.com/appwrite/appwrite/network)  | 
+| [arm](https://github.com/abhisheknaiidu/arm) | [![GitHub issues](https://img.shields.io/github/issues/abhisheknaiidu/arm?color=pink&logo=github)](https://github.com/abhisheknaiidu/arm/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/abhisheknaiidu/arm?style=social&logo=github)](https://github.com/abhisheknaiidu/arm/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/abhisheknaiidu/arm?style=flat-square&logo=git)](https://github.com/abhisheknaiidu/arm/network) | [![GitHub stars](https://img.shields.io/github/stars/abhisheknaiidu/arm?style=social&logo=github)](https://github.com/abhisheknaiidu/arm/network) |
+| [class-karona](https://github.com/abhisheknaiidu/class-karona/) | [![GitHub issues](https://img.shields.io/github/issues/abhisheknaiidu/class-karona?color=pink&logo=github)](https://github.com/abhisheknaiidu/class-karona/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/abhisheknaiidu/class-karona?style=social&logo=github)](https://github.com/abhisheknaiidu/class-karona/pulls) | [![GitHub forks](https://img.shields.io/github/forks/abhisheknaiidu/class-karona?style=flat-square&logo=git)](https://github.com/abhisheknaiidu/class-karona/network) | [![GitHub stars](https://img.shields.io/github/stars/abhisheknaiidu/class-karona?style=social&logo=github)](https://github.com/abhisheknaiidu/class-karona/network) |
+| [Gwion](https://github.com/fennecdjay/Gwion) | [![GitHub issues](https://img.shields.io/github/issues/fennecdjay/Gwion?color=pink&logo=github)](https://github.com/fennecdjay/Gwion/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/fennecdjay/Gwion?style=social&logo=github)](https://github.com/fennecdjay/Gwion/pulls) | [![GitHub forks](https://img.shields.io/github/forks/fennecdjay/Gwion?style=flat-square&logo=git)](https://github.com/fennecdjay/Gwion/network)  | [![GitHub stars](https://img.shields.io/github/stars/fennecdjay/Gwion?style=social&logo=github)](https://github.com/fennecdjay/Gwion/network)  |
+| [iiitdmj-gpa](https://github.com/abhisheknaiidu/iiitdmj-gpa/) | [![GitHub issues](https://img.shields.io/github/issues/abhisheknaiidu/iiitdmj-gpa?color=pink&logo=github)](https://github.com/abhisheknaiidu/iiitdmj-gpa/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/abhisheknaiidu/iiitdmj-gpa?style=social&logo=github)](https://github.com/abhisheknaiidu/iiitdmj-gpa/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/abhisheknaiidu/iiitdmj-gpa?logo=git)](https://github.com/abhisheknaiidu/iiitdmj-gpa/network) | [![GitHub stars](https://img.shields.io/github/stars/abhisheknaiidu/iiitdmj-gpa?style=social&logo=github)](https://github.com/abhisheknaiidu/iiitdmj-gpa/network) |
+| [image-creator](https://github.com/abhisheknaiidu/image-creator) | [![GitHub issues](https://img.shields.io/github/issues/abhisheknaiidu/image-creator?color=pink&logo=github)](https://github.com/abhisheknaiidu/image-creator/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/abhisheknaiidu/image-creator?style=social&logo=github)](https://github.com/abhisheknaiidu/image-creator/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/abhisheknaiidu/image-creator?style=flat-square&logo=git)](https://github.com/abhisheknaiidu/image-creator/network) | [![GitHub stars](https://img.shields.io/github/stars/abhisheknaiidu/image-creator?style=social&logo=github)](https://github.com/abhisheknaiidu/image-creator/network) |
+| [javascript30](https://github.com/abhisheknaiidu/javascript30) | [![GitHub issues](https://img.shields.io/github/issues/abhisheknaiidu/javascript30?color=pink&logo=github)](https://github.com/abhisheknaiidu/javascript30/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/abhisheknaiidu/javascript30?style=social&logo=github)](https://github.com/abhisheknaiidu/javascript30/pulls) | [![GitHub forks](https://img.shields.io/github/forks/abhisheknaiidu/javascript30?style=flat-square&logo=git)](https://github.com/abhisheknaiidu/javascript30/network)  | [![GitHub stars](https://img.shields.io/github/stars/abhisheknaiidu/javascript30?style=social&logo=github)](https://github.com/abhisheknaiidu/javascript30/network)  |
+| [portfolio](https://github.com/abhisheknaiidu/abhisheknaiidu.github.io/) | [![GitHub issues](https://img.shields.io/github/issues/abhisheknaiidu/abhisheknaiidu.github.io?color=pink&logo=github)](https://github.com/abhisheknaiidu/abhisheknaiidu.github.io/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/abhisheknaiidu/abhisheknaiidu.github.io?style=social&logo=github)](https://github.com/abhisheknaiidu/abhisheknaiidu.github.io/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/abhisheknaiidu/abhisheknaiidu.github.io?logo=git)](https://github.com/abhisheknaiidu/abhisheknaiidu.github.io/network) | [![GitHub stars](https://img.shields.io/github/stars/abhisheknaiidu/abhisheknaiidu.github.io?style=social&logo=github)](https://github.com/abhisheknaiidu/abhisheknaiidu.github.io/network) |
+| [quarantine-days](https://github.com/abhisheknaiidu/quarantine-days) | [![GitHub issues](https://img.shields.io/github/issues/abhisheknaiidu/quarantine-days?color=pink&logo=github)](https://github.com/abhisheknaiidu/quarantine-days/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/abhisheknaiidu/quarantine-days?style=social&logo=github)](https://github.com/abhisheknaiidu/quarantine-days/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/abhisheknaiidu/quarantine-days?logo=git)](https://github.com/abhisheknaiidu/quarantine-days/network) | [![GitHub stars](https://img.shields.io/github/stars/abhisheknaiidu/quarantine-days?style=social&logo=github)](https://github.com/abhisheknaiidu/quarantine-days/network) |
+| [todoist-readme](https://github.com/abhisheknaiidu/todoist-readme) | [![GitHub issues](https://img.shields.io/github/issues/abhisheknaiidu/todoist-readme?color=pink&logo=github)](https://github.com/abhisheknaiidu/todoist-readme/issues)  | [![GitHub PRs](https://img.shields.io/github/issues-pr/abhisheknaiidu/todoist-readme?style=social&logo=github)](https://github.com/abhisheknaiidu/todoist-readme/pulls)  | [![GitHub forks](https://img.shields.io/github/forks/abhisheknaiidu/todoist-readme?logo=git)](https://github.com/abhisheknaiidu/todoist-readme/network) | [![GitHub stars](https://img.shields.io/github/stars/abhisheknaiidu/todoist-readme?style=social&logo=github)](https://github.com/abhisheknaiidu/todoist-readme/network)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## License 
 
-**Bold** and _Italic_ and `Code` text
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-[Link](url) and ![Image](src)
-```
+To the extent possible under law, [Abhishek Naidu](https://blog.abhisheknaidu.tech/) has waived all copyright and related or neighboring rights to this work.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abhisheknaiidu/hacktoberfest2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
