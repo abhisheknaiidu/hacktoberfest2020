@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
-        <img src="assets/hacktober-logo.svg" width="30%">
+        <img src="https://raw.githubusercontent.com/abhisheknaiidu/hacktoberfest2020/master/assets/hacktober-logo.svg" width="30%">
     </a>
 </p>
 
