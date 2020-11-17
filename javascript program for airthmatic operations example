@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+<p>This is an example of Addition of numerical values</p>
+<p id="p1"></p>
+<script>
+var sum = 70 + 30;
+document.getElementById("p1").innerHTML = sum;
+</script>
+</body>
+</html>
